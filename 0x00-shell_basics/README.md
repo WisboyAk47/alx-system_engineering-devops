@@ -12,3 +12,4 @@
 #Create a script that creates a directory named my_first_directory in the /tmp/ directory in the file 6-firstdirectory
 #Move the file betty from /tmp/ to /tmp/my_first_directory in the file 7-movethatfile
 #Script that delete the file betty in /tmp/my_first_directory directory in the  8-firstdelete file
+#Scrypt tht delete the directory my_first_directory that is in the /tmp directory in the 9-firstdirdeletion file
