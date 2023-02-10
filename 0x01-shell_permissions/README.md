@@ -12,4 +12,5 @@ Write a script that adds execution permission to the owner, the group owner and 
 Group: no permission at all
 
 Other users: all the permissions
+Write a script that sets the mode of the file hello the same as olleh’s mode in 10-mirror_permissions
 
