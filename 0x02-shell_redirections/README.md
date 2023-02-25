@@ -5,3 +5,4 @@ write a script that display the content of /etc/passwd and /etc/hosts
 write a script that display the last 10 lines of /etc/passwd
 write a script that Display the first 10 lines of /etc/passwd
 Write a script that displays the third line of the file iacta the file iacta will be in the working directory
+Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
