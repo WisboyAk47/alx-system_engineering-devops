@@ -23,3 +23,7 @@ File: 4-global_variables
 ***5. Local variables
 Create a script that lists all local variables and environment variables, and functions.
 File: 5-local_variables
+
+***6. Local variable
+Create a script that creates a new local variable.
+File: 6-create_local_variable
