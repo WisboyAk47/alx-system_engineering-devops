@@ -45,3 +45,7 @@ File: 9-divide_and_rule
 ***10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 Write a script that displays the result of BREATH to the power LOVE
 File: 10-love_exponent_breath
+
+***11. There are 10 types of people in the world
+Write a script that converts a number from base 2 to base 10.
+File: 11-binary_to_decimal
