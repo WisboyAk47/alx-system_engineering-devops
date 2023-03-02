@@ -58,3 +58,6 @@ File: 12-combinations
 Write a script that prints a number with two decimal places, followed by a new line.
 File: 13-print_float
 
+***14. Decimal to Hexadecimal
+Write a script that converts a number from base 10 to base 16.
+File: 100-decimal_to_hexadecimal
