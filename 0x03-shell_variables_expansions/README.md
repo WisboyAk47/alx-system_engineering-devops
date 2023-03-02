@@ -49,3 +49,7 @@ File: 10-love_exponent_breath
 ***11. There are 10 types of people in the world
 Write a script that converts a number from base 2 to base 10.
 File: 11-binary_to_decimal
+
+***12. Combination
+Create a script that prints all possible combinations of two letters, except oo.
+File: 12-combinations
